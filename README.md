@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hello 👋, I'm Darpan Kapse
 
-<!--
-**drpnkapse/drpnkapse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+💻 DSA Enthusiast | Full-Stack Developer  
+🤖 Exploring AI & Machine Learning  
+🚀 Passionate about building real-world solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💡 Strong interest in Data Structures & Algorithms
+- 💻 Learning and building projects in Web Development
+- 🧠 Improving my Problem Solving skills
+- 🚀 Interested in challenging projects and internships
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+C++ | Python | JavaScript | SQL
+
+### Web Development
+HTML | CSS | React.js 
+
+### Database
+ MySQL
+
+### Tools & Concepts
+Git | GitHub | REST APIs | Responsive Design | API Integration
+
+---
+
+## 🔥 GitHub Streak
+
+[GitHub Streak](https://streak-stats.demolab.com/)
+
+---
+
+## 🎓 Education
+
+**B.Tech - Computer Science Engineering 
+Sushila Devi Bansal College of Technology, Indore  
+CGPA: 
+2023 - 2027**
+
+---
+
+## 💡 Soft Skills
+
+Teamwork | Communication | Problem Solving | Adaptability | Time Management | Analytical Thinking
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: drpnkapse31@gmail.com  
+📞 Phone: +91-7725006793
+💼 LinkedIn: https://www.linkedin.com/in/drpn-kapse
