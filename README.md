@@ -42,8 +42,8 @@ Git | GitHub | REST APIs | Responsive Design | API Integration
 
 **B.Tech - Computer Science Engineering <br>
 Sushila Devi Bansal College of Technology, Indore  
-CGPA: 
-2023 - 2027**
+CGPA:
+  (2023 - 2027)**
 
 ---
 
