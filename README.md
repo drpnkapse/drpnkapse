@@ -56,5 +56,5 @@ Teamwork | Communication | Problem Solving | Adaptability | Time Management | An
 ## 🤝 Connect With Me
 
 📧 Email: drpnkapse31@gmail.com  
-📞 Phone: +91-7725006793
 💼 LinkedIn: https://www.linkedin.com/in/drpn-kapse
+📞 Phone: +91-7725006793
