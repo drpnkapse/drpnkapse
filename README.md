@@ -1,8 +1,7 @@
 # Hello 👋, I'm Darpan Kapse
 
 🎓 Computer Science & Engineering Student  
-💻 DSA Enthusiast | Full-Stack Developer  
-🤖 Exploring AI & Machine Learning  
+💻 DSA Enthusiast | Full-Stack Developer    
 🚀 Passionate about building real-world solutions
 
 ---
